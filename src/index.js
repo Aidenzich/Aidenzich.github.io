@@ -14,6 +14,7 @@ import Index from "views/Index.js";
 import LandingPage from "views/LandingPage.js";
 import ProfilePage from "views/ProfilePage.js";
 import RegisterPage from "views/RegisterPage.js";
+import MarkdownPage from "views/MarkdownPage.js"
 // others
 
 
@@ -34,6 +35,13 @@ ReactDOM.render(
         path={"/register-page"}
         render={(props) => <RegisterPage {...props} />}
       />
+      <Route
+        path={"/markdown-page"}
+        render={(props) => <MarkdownPage {...props} />}
+      />
+
+
+
       <Redirect to={'/index'} />
     </Switch>
   </HashRouter>,

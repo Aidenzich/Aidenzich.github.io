@@ -21,7 +21,22 @@ function SectionSkills() {
               <br />
             </Col>
             <Col className="ml-auto mr-auto" >
-              <img style={{padding: "45px"}} className="my-icon-all-in-one"  alt="..." src={require("assets/img/icons/all-in-1.png").default} />              
+              <img 
+                style={{padding: "45px"}} 
+                className="my-icon-all-in-one"  
+                alt="..." 
+                src={require("assets/img/icons/all-in-1.png").default} 
+                />              
+            </Col>
+            <Col>
+                <Button
+                    className="btn-round"
+                    color="danger"
+                    outline
+                    href=".#/markdown-page"
+                  >
+                    Demo Icons
+                  </Button>  
             </Col>
           </Row>
         </Container>
