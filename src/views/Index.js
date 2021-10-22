@@ -12,6 +12,7 @@ import Footer from "components/Footers/Footer.js";
 import SectionJavaScript from "views/index-sections/SectionJavaScript.js";
 import SectionCarousel from "views/index-sections/SectionCarousel.js";
 import SectionSkills from "views/index-sections/SectionSkills.js";
+import SectionNotes from "views/index-sections/SectionNotes.js"
 import LoginPages from "views/LoginPage.js";
 import AboutUs from "views/index-sections/AboutUs.js"
 
@@ -33,6 +34,7 @@ function Index() {
         <SectionSkills />
         {/* <SectionJavaScript/>
         <LoginPages/> */}
+        <SectionNotes />
         <Footer />
       </div>
     </>

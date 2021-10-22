@@ -23,7 +23,7 @@ function IndexHeader() {
               <h1 className="presentation-title">
                 <Typewriter
                   onInit={(typewriter) => {
-                    typewriter.typeString('Hello,World!')                      
+                    typewriter.typeString('Hello, World!')                      
                       .pauseFor(1000)
                       .deleteAll()
                       .typeString("I'm Aiden.")

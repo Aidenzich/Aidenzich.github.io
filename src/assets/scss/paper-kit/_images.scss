@@ -1,3 +1,6 @@
+.notes {
+    max-height: 200px;
+}
 .img-rounded{
     border-radius: $border-radius-extreme;
     transition: opacity 0.5s ease 0s;
@@ -9,12 +12,12 @@
 
 }
 .img-details img{
-    width: 50px;
+    width: 70px;
 }
-.img-details .author{
-    margin-left: 10px;
-    margin-top: -21px;
-    width: 40px;
+.img-details .icon{
+    margin-left: 120px;
+    margin-top: -40px;
+    width: 70px;
 }
 .img-circle{
     background-color: $white-color;

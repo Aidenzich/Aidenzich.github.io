@@ -12,8 +12,12 @@ License - nucleoapp.com/license/
   font-style: normal;
 }
 /*------------------------
-	base class definition
+	Aiden's icons class definition
 -------------------------*/
+.my-icon-all-in-one {
+    height: 300px;
+    width: 340px;
+}
 .icon-container{
     // margin-left: 5px;
     justify-content: space-evenly;
@@ -27,7 +31,9 @@ License - nucleoapp.com/license/
     height: 50px;
     width: 50px;
 }
-
+/*------------------------
+	base class definition
+-------------------------*/
 .nc-icon {
   display: inline-block;
   font: normal normal normal 14px/1 'nucleo-icons';
