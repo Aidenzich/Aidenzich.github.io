@@ -21,7 +21,7 @@ function SectionSkills() {
               <br />
             </Col>
             <Col className="ml-auto mr-auto" >
-              <img style={{margin: "45px"}} className="my-icon-all-in-one"  alt="..." src={require("assets/img/icons/all-in-1.png").default} />              
+              <img style={{padding: "45px"}} className="my-icon-all-in-one"  alt="..." src={require("assets/img/icons/all-in-1.png").default} />              
             </Col>
           </Row>
         </Container>
