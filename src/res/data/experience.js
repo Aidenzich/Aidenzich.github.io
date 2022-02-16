@@ -21,7 +21,7 @@ export const experiences = [
       src: require("assets/img/icons/ms_cs.png").default,
       title: "Master's Student",
       category: "Computer Science",
-      desp: " A master's degree is a degree that belongs to a master, which makes it natural to include an apostrophe. A person studying to become a master"
+      desp: "Working on Recommender System, Time Series forecasting, and NLP with AI."
     },
 ];
 
