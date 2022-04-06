@@ -11,24 +11,33 @@ function SectionSkills() {
     <>
       <div className="section section-dark section-nucleo-icons">
         <Container>
+          <h2 className="title">Skills</h2>
           <Row>
-            <Col lg="6" md="12">
-              <h2 className="title">Skills</h2>
-              <br />
-              <p className="description">
-                wip, Like many innovative game-changers, Jobs wasn't looking to replicate what's already been done. He had a totally different mindset from the others. He found what the customer needed before they asked for it.
-              </p>
-              <br />
-            </Col>
-            <Col className="ml-auto mr-auto" >
-              <img 
-                style={{padding: "45px"}} 
-                className="my-icon-all-in-one"  
-                alt="..." 
-                src={require("assets/img/icons/all-in-1.png").default} 
-                />              
-            </Col>
-            <Col>
+              <Col>
+                <h3 >Web Developer</h3>
+                <img
+                    alt="..."
+                    style={{width: '28vw'}}
+                    src={
+                      require("assets/img/web-dev.png").default
+                    }
+                  />
+                <br />
+              </Col>
+              <Col>
+                <h3 >ML Research</h3>
+                <img
+                    style={{width: '28vw'}}
+                    alt="..."                  
+                    src={
+                      require("assets/img/ml-research.png").default
+                    }
+                  />
+                
+              </Col>
+              
+              
+            {/* <Col>
                 <Button
                     className="btn-round"
                     color="danger"
@@ -37,7 +46,7 @@ function SectionSkills() {
                   >
                     Demo Icons
                   </Button>  
-            </Col>
+            </Col> */}
           </Row>
         </Container>
       </div>{" "}

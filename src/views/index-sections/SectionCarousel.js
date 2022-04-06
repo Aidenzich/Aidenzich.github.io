@@ -48,6 +48,7 @@ function SectionCarousel() {
             <Col className="ml-auto mr-auto" md="8" >
               <Card className="page-carousel" >
                 <Carousel 
+                  interval={15000}
                   activeIndex={activeIndex}
                   next={next}
                   previous={previous}

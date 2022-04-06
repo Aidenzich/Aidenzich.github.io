@@ -34,7 +34,7 @@ function Index() {
         <SectionSkills />
         {/* <SectionJavaScript/>
         <LoginPages/> */}
-        <SectionNotes />
+        {/* <SectionNotes /> */}
         <Footer />
       </div>
     </>

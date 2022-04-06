@@ -38,7 +38,7 @@ function IndexHeader() {
                 <Typewriter
                   onInit={(typewriter) => {
                     setTimeout(function() { 
-                      typewriter.typeString('Programmer | Art Designer | Trader')
+                      typewriter.typeString('ML | RecSys | NLP | Backend | ')
                       .pauseFor(1500)
                       .deleteAll()
                       .typeString('Welcome to my Life!')
@@ -50,10 +50,7 @@ function IndexHeader() {
                 
               </h2>
             </div>
-            
-            {/* <h2 className="presentation-subtitle text-center">
-              Programmer | Art Designer | Trader
-            </h2> */}
+                        
           </Container>
         </div>
         <div

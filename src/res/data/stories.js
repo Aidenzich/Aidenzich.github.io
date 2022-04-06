@@ -4,11 +4,11 @@ export const stories = [
       altText: "NCKU life",
       caption: "NCKU Life",
     },
-    // {
-    //   src: require("assets/img/s2.jpeg").default,
-    //   altText: "Somewhere else",
-    //   caption: "Somewhere else",
-    // },
+    {
+      src: require("assets/img/pea-sys.gif").default,
+      altText: "Somewhere else",
+      caption: "Somewhere else",
+    },
     
 ];
 
