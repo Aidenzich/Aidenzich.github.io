@@ -45,7 +45,7 @@ function SectionCarousel() {
             <h2>Stories</h2>
           </div>
           <Row>
-            <Col className="ml-auto mr-auto" md="8" >
+            <Col className="ml-auto mr-auto" >
               <Card className="page-carousel" >
                 <Carousel 
                   interval={15000}

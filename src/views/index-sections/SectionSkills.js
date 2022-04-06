@@ -13,8 +13,16 @@ function SectionSkills() {
         <Container>
           <h2 className="title">Skills</h2>
           <Row>
+            <Col>
+              <h3 >Web Developer</h3>
+            </Col>
+            <Col>
+              <h3 >ML Research</h3>
+            </Col>
+          </Row>
+          <Row style={{alignItems: 'center',}}>
               <Col>
-                <h3 >Web Developer</h3>
+                
                 <img
                     alt="..."
                     style={{width: '28vw'}}
@@ -24,8 +32,8 @@ function SectionSkills() {
                   />
                 <br />
               </Col>
-              <Col>
-                <h3 >ML Research</h3>
+              <Col >
+                
                 <img
                     style={{width: '28vw'}}
                     alt="..."                  

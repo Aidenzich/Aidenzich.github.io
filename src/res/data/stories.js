@@ -6,7 +6,7 @@ export const stories = [
     },
     {
       src: require("assets/img/pea-sys.gif").default,
-      altText: "Somewhere else",
+      altText: "PEA System",
       caption: "Somewhere else",
     },
     
