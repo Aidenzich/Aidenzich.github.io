@@ -39,7 +39,7 @@ function SectionCarousel() {
   };
   return (
     <>      
-      <div className="section pt-o" id="carousel">      
+      <div className="section section-dark pt-o" id="carousel">      
         <Container>
           <div className="title">
             <h2>Stories</h2>

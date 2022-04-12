@@ -30,11 +30,12 @@ function Index() {
       <IndexHeader />
       <div className="main">
         <AboutUs/>
-        <SectionCarousel />
+        
         <SectionSkills />
         {/* <SectionJavaScript/>
         <LoginPages/> */}
         {/* <SectionNotes /> */}
+        <SectionCarousel />
         <Footer />
       </div>
     </>

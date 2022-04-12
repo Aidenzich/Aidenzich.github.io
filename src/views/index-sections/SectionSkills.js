@@ -25,7 +25,7 @@ function SectionSkills() {
                 
                 <img
                     alt="..."
-                    style={{width: '28vw'}}
+                    style={{width: '21vw'}}
                     src={
                       require("assets/img/web-dev.png").default
                     }
@@ -35,7 +35,7 @@ function SectionSkills() {
               <Col >
                 
                 <img
-                    style={{width: '28vw'}}
+                    style={{width: '21vw'}}
                     alt="..."                  
                     src={
                       require("assets/img/ml-research.png").default

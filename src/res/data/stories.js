@@ -1,6 +1,6 @@
 export const stories = [
     {
-      src: require("assets/img/s1.webp").default,
+      src: require("assets/img/b1.jpg").default,
       altText: "NCKU life",
       caption: "NCKU Life",
     },
