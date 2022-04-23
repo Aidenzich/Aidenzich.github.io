@@ -10,13 +10,13 @@ function SectionNotes() {
                 </div>
                 <Row>
                     <Col md="3" sm="6">
-                        <a href="https://hackmd.io/_A1SJ_21TOuKMUmv3GCmMg">
+                        {/* <a href="https://hackmd.io/_A1SJ_21TOuKMUmv3GCmMg">
                             <img
                             alt="..."
                             className="img-rounded img-responsive notes"
                             src={require("assets/img/1-7.jpeg").default}
                             />
-                        </a>
+                        </a> */}
                                               
                         <div className="img-details">
                         <div className="icon">
