@@ -3,7 +3,9 @@ import React from "react";
 
 // reactstrap components
 import { Button, Container, Row, Col } from "reactstrap";
+import 'react-medium-image-zoom/dist/styles.css'
 
+import Zoom from 'react-medium-image-zoom'
 // core components
 
 function SectionSkills() {
@@ -22,26 +24,34 @@ function SectionSkills() {
           </Row>
           <Row style={{alignItems: 'center',}}>
               <Col>
-                
-                <img
+                <Zoom 
+                   overlayBgColorEnd="rgba(0, 0, 0, 0.75)"
+                   overlayBgColorStart="rgba(0, 0, 0, 0)"
+                >
+                  <img
                     alt="..."
                     style={{width: '21vw'}}
                     src={
                       require("assets/img/web-dev.png").default
                     }
                   />
+                </Zoom>
+                
                 <br />
               </Col>
               <Col >
-                
-                <img
+                <Zoom
+                  overlayBgColorEnd="rgba(0, 0, 0, 0.75)"
+                  overlayBgColorStart="rgba(0, 0, 0, 0)"
+                  >
+                  <img
                     style={{width: '21vw'}}
                     alt="..."                  
                     src={
                       require("assets/img/ml-research.png").default
                     }
                   />
-                
+                </Zoom>                                
               </Col>
               
               
