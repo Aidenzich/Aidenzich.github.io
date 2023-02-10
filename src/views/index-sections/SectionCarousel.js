@@ -14,6 +14,7 @@ import {
   CarouselCaption,
 } from "reactstrap";
 
+
 function SectionCarousel() {
   const [activeIndex, setActiveIndex] = React.useState(0);
   const [animating, setAnimating] = React.useState(false);
@@ -67,6 +68,8 @@ function SectionCarousel() {
                       >
                         <img src={item.src} alt={item.altText} />
                         <CarouselCaption
+                          // className="text-warning bg-dark"
+                          
                           captionText={item.caption}
                           captionHeader=""
                         />
@@ -101,7 +104,9 @@ function SectionCarousel() {
                   </a>
                 </Carousel>
               </Card>
+              
             </Col>
+            
           </Row>
         </Container>
       </div>{" "}
