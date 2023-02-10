@@ -39,9 +39,6 @@ ReactDOM.render(
         path={"/markdown-page"}
         render={(props) => <MarkdownPage {...props} />}
       />
-
-
-
       <Redirect to={'/index'} />
     </Switch>
   </HashRouter>,

@@ -5,13 +5,7 @@ export const experiences = [
       category: "Bachelor",
       desp: "My major in college is Financial management, "+
       "which refers to the strategic planning, organizing, directing, and analysing of financial data."
-    },
-    // {
-    //   src: require("assets/img/icons/s_f.png").default,
-    //   title: "Securities Analysis",
-    //   category: "Financial Data Analysis",
-    //   desp: " Securities sales agents work for investment and trading firms, buying and selling securities on behalf of clients."
-    // },
+    },    
     {
       src: require("assets/img/icons/d_cs.png").default,
       title: "Software Developer",

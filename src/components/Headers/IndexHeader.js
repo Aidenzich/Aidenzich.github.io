@@ -42,7 +42,7 @@ function IndexHeader() {
                 <Typewriter
                   onInit={(typewriter) => {                    
                     setTimeout(function() { 
-                      typewriter.typeString('ML Forecast | RecSys | NLP | Backend')
+                      typewriter.typeString('TS Forecasting | RecSys | NLP | Backend')
                       .pauseFor(1500)
                       .deleteAll()
                       .typeString('Welcome to my Life!')
