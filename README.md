@@ -1,8 +1,8 @@
 # azweb
 ## scripts
-- react-gh-pages
 ```
-npm run deploy
+yarn
+yarn deploy
 git add .
 git commit -m "deploy"
 git push
