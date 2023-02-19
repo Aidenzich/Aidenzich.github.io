@@ -1,5 +1,4 @@
 import React from "react";
-import Slider from "nouislider"
 import { experiences } from "res/data/experience";
 import { 
     Card, CardBody,
@@ -18,7 +17,7 @@ function AboutUs(){
             <h2 className="title">About</h2>
             <p className="card-description text-center" style={p_style}>
             I'm a student undertaking a master's degree in computer science, studying time-series forecasting, recommender system, and NLP.             
-            Besides,  also a backend developer who has experience with cloud servers and WebSocket.
+            Besides,  also a backend developer who has experience with cloud servers and different protocol (e.g. UDP, websocket, etc. ).
             </p>
             <p className="card-description text-center" style={p_style}>
             I'm devoted to solving complex business problems through creatively leveraging solutions.
