@@ -7,7 +7,7 @@ import { BrowserRouter, HashRouter, Route, Redirect, Switch } from "react-router
 // styles
 import "bootstrap/scss/bootstrap.scss";
 import "assets/scss/paper-kit.scss?v=1.3.0";
-import "assets/demo/demo.css?v=1.3.0";
+import "assets/css/demo.css?v=1.3.0";
 import "res/data/stories.js";
 // pages
 import Index from "views/Index.js";

@@ -19,7 +19,7 @@ function RegisterPage() {
         className="page-header"
         style={{
           backgroundImage:
-            "url(" + require("assets/img/login-image.jpg").default + ")",
+            "url(" + require("assets/img/bg/b1.jpg").default + ")",
         }}
       >
         <div className="filter" />

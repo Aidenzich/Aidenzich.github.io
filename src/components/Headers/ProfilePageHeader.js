@@ -27,7 +27,7 @@ function ProfilePageHeader() {
       <div
         style={{
           backgroundImage:
-            "url(" + require("assets/img/fabio-mangione.jpg").default + ")",
+            "url(" + require("assets/img/bg/b1.jpg").default + ")",
         }}
         className="page-header page-header-xs"
         data-parallax={true}

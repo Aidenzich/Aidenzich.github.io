@@ -11,8 +11,7 @@ function IndexHeader() {
       <div
         className="page-header section-dark"
         style={{
-          backgroundImage:
-            // "url(" + require("assets/img/pexels-s-migaj-747964.jpg").default + ")",
+          backgroundImage:            
             "url(" + require("assets/img/b3.avif").default + ")",
         }}
       >

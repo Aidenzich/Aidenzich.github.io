@@ -14,15 +14,17 @@ function AboutUs(){
     return (
         <div className="section section-dark text-center">
             <Container>
-            <h2 className="title">About</h2>
-            <p className="card-description text-center" style={p_style}>
-            I'm a student undertaking a master's degree in computer science, studying time-series forecasting, recommender system, and NLP.             
-            Besides,  also a backend developer who has experience with cloud servers and different protocol (e.g. UDP, websocket, etc. ).
-            </p>
-            <p className="card-description text-center" style={p_style}>
-            I'm devoted to solving complex business problems through creatively leveraging solutions.
-            
-            </p>
+                <div>
+                    <h2 className="title">About</h2>
+                    <p className="card-description text-center" style={p_style}>
+                    I'm a student undertaking a master's degree in computer science, studying Recommendation System, Time-series Forecasting, and Vision-Language.
+                        
+                    Besides,  also a software engineer who has experience with cloud servers and various protocol (e.g. UDP, websocket, etc. ).
+                    
+                    I'm devoted to solving complex business problems through creatively leveraging solutions.
+                    
+                    </p>
+                </div>            
             <h2 className="title">EXPERIENCE</h2>
             <Row>
                 {experiences.map((item)=>{

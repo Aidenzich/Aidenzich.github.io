@@ -52,21 +52,30 @@ function SectionSkills() {
                     }
                   />
                 </Zoom>                                
-              </Col>
-              
-              
-            {/* <Col>
-                <Button
-                    className="btn-round"
-                    color="danger"
-                    outline
-                    href=".#/markdown-page"
-                  >
-                    Demo Icons
-                  </Button>  
-            </Col> */}
+              </Col>              
+          </Row>
+          <h2 className="title">Problem Solving</h2>
+          <Row>
+            <Col><h3>How do I face challenging situations?</h3></Col>
+          </Row>
+          <Row style={{textAlign: "center"}}>
+            <Col>
+              <Zoom
+                overlayBgColorEnd="rgba(0, 0, 0, 0.75)"
+                overlayBgColorStart="rgba(0, 0, 0, 0)"              
+              >
+              <img
+                style={{margin: "0 auto"}}
+                alt="..."                  
+                src={
+                  require("assets/img/tree/solve_problem_sop.png").default
+                }
+              />
+              </Zoom>
+            </Col>            
           </Row>
         </Container>
+        
       </div>{" "}
     </>
   );

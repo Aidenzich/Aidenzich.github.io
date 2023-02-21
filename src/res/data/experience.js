@@ -16,7 +16,7 @@ export const experiences = [
       src: require("assets/img/icons/ms_cs.png").default,
       title: "Data Researcher",
       category: "Computer Science",
-      desp: "Now I'm studying AI on Recommender systems, Time Series forecasting, model interpretability, and NLP. " +
+      desp: "Now I'm studying AI on Recommender systems, Time-series forecasting, model interpretability, and Vision-Language (Multi-Modal). " +
             "Implement and use AI models on real industry data to solve complex business problems and help people make better decisions."
     },
 ];
