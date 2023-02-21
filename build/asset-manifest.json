@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bb6fe6e2.chunk.css",
-    "main.js": "/static/js/main.d1f585d1.chunk.js",
-    "main.js.map": "/static/js/main.d1f585d1.chunk.js.map",
+    "main.js": "/static/js/main.5785a2ff.chunk.js",
+    "main.js.map": "/static/js/main.5785a2ff.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6d191c48.js",
     "runtime-main.js.map": "/static/js/runtime-main.6d191c48.js.map",
     "static/css/2.8b4cbbf9.chunk.css": "/static/css/2.8b4cbbf9.chunk.css",
@@ -17,13 +17,13 @@
     "static/media/b_f.png": "/static/media/b_f.f947001e.png",
     "static/media/clouds.png": "/static/media/clouds.3c700c13.png",
     "static/media/d_cs.png": "/static/media/d_cs.4b608dd4.png",
-    "static/media/dev.png": "/static/media/dev.f3ffe9b3.png",
+    "static/media/dev.png": "/static/media/dev.67ccc76d.png",
     "static/media/finlab_0.png": "/static/media/finlab_0.4c524192.png",
     "static/media/finlab_1.png": "/static/media/finlab_1.9a34fb33.png",
     "static/media/finlab_2.png": "/static/media/finlab_2.5fb38315.png",
     "static/media/iceberg.png": "/static/media/iceberg.cc6b5075.png",
     "static/media/marketing-cms.gif": "/static/media/marketing-cms.8fded7bb.gif",
-    "static/media/ml.png": "/static/media/ml.1688f2e0.png",
+    "static/media/ml.png": "/static/media/ml.71ca9622.png",
     "static/media/ms_cs.png": "/static/media/ms_cs.986899db.png",
     "static/media/paper-kit.scss?v=1.3.0": "/static/media/nucleo-icons.ec16bc4c.woff2",
     "static/media/pea-sys.gif": "/static/media/pea-sys.1c9da664.gif",
@@ -36,6 +36,6 @@
     "static/css/2.8b4cbbf9.chunk.css",
     "static/js/2.714ebd3f.chunk.js",
     "static/css/main.bb6fe6e2.chunk.css",
-    "static/js/main.d1f585d1.chunk.js"
+    "static/js/main.5785a2ff.chunk.js"
   ]
 }
