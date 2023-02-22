@@ -64,8 +64,7 @@ function SectionSkills() {
                 overlayBgColorEnd="rgba(0, 0, 0, 0.75)"
                 overlayBgColorStart="rgba(0, 0, 0, 0)"              
               >
-              <img
-                // style={{margin: "0 auto"}}
+              <img                
                 style={{width: '100%'}}
                 alt="..."                  
                 src={
