@@ -65,7 +65,8 @@ function SectionSkills() {
                 overlayBgColorStart="rgba(0, 0, 0, 0)"              
               >
               <img
-                style={{margin: "0 auto"}}
+                // style={{margin: "0 auto"}}
+                style={{width: '100%'}}
                 alt="..."                  
                 src={
                   require("assets/img/tree/solve_problem_sop.png").default
