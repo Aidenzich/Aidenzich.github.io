@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bb6fe6e2.chunk.css",
-    "main.js": "/static/js/main.893bd5f7.chunk.js",
-    "main.js.map": "/static/js/main.893bd5f7.chunk.js.map",
+    "main.js": "/static/js/main.f803b7f9.chunk.js",
+    "main.js.map": "/static/js/main.f803b7f9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6d191c48.js",
     "runtime-main.js.map": "/static/js/runtime-main.6d191c48.js.map",
     "static/css/2.8b4cbbf9.chunk.css": "/static/css/2.8b4cbbf9.chunk.css",
@@ -23,12 +23,12 @@
     "static/media/finlab_2.png": "/static/media/finlab_2.5fb38315.png",
     "static/media/iceberg.png": "/static/media/iceberg.cc6b5075.png",
     "static/media/marketing-cms.gif": "/static/media/marketing-cms.8fded7bb.gif",
-    "static/media/ml.png": "/static/media/ml.71ca9622.png",
+    "static/media/ml.png": "/static/media/ml.cbf33801.png",
     "static/media/ms_cs.png": "/static/media/ms_cs.986899db.png",
     "static/media/paper-kit.scss?v=1.3.0": "/static/media/nucleo-icons.ec16bc4c.woff2",
     "static/media/pea-sys.gif": "/static/media/pea-sys.1c9da664.gif",
     "static/media/rec_cli.gif": "/static/media/rec_cli.925b1695.gif",
-    "static/media/solve_problem_sop.png": "/static/media/solve_problem_sop.acbefb30.png",
+    "static/media/solve_problem_sop.png": "/static/media/solve_problem_sop.dc6823be.png",
     "static/media/test.f2910b9c.md": "/static/media/test.f2910b9c.md"
   },
   "entrypoints": [
@@ -36,6 +36,6 @@
     "static/css/2.8b4cbbf9.chunk.css",
     "static/js/2.714ebd3f.chunk.js",
     "static/css/main.bb6fe6e2.chunk.css",
-    "static/js/main.893bd5f7.chunk.js"
+    "static/js/main.f803b7f9.chunk.js"
   ]
 }
