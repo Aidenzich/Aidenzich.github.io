@@ -74,7 +74,7 @@ function SectionTimeline() {
                     <VerticalTimelineElement
                         className="vertical-timeline-element--education"
                         contentStyle={{ background: contentStyle, color: '#fff' }}
-                        date="Dec 2018 - Sep 2019"
+                        date="Dec 2019 - Sep 2020"
                         iconStyle={{ background: '#0b1011', color: '#fff' }}
                         icon={<TbBriefcase />}
                     >
